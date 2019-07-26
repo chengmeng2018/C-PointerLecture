@@ -5,6 +5,13 @@ VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-PointerLecture", "C-PointerLecture\C-PointerLecture.vcxproj", "{A4834B3D-7C59-447C-9A36-C4BD4E98191D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "readme", "readme", "{8613179E-9029-4D2D-AB2E-C0AB00CF852D}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.数据类型", "1.数据类型\1.数据类型.vcxproj", "{5BC3BFB7-8289-4048-8857-BEEFAC381006}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +28,14 @@ Global
 		{A4834B3D-7C59-447C-9A36-C4BD4E98191D}.Release|x64.Build.0 = Release|x64
 		{A4834B3D-7C59-447C-9A36-C4BD4E98191D}.Release|x86.ActiveCfg = Release|Win32
 		{A4834B3D-7C59-447C-9A36-C4BD4E98191D}.Release|x86.Build.0 = Release|Win32
+		{5BC3BFB7-8289-4048-8857-BEEFAC381006}.Debug|x64.ActiveCfg = Debug|x64
+		{5BC3BFB7-8289-4048-8857-BEEFAC381006}.Debug|x64.Build.0 = Debug|x64
+		{5BC3BFB7-8289-4048-8857-BEEFAC381006}.Debug|x86.ActiveCfg = Debug|Win32
+		{5BC3BFB7-8289-4048-8857-BEEFAC381006}.Debug|x86.Build.0 = Debug|Win32
+		{5BC3BFB7-8289-4048-8857-BEEFAC381006}.Release|x64.ActiveCfg = Release|x64
+		{5BC3BFB7-8289-4048-8857-BEEFAC381006}.Release|x64.Build.0 = Release|x64
+		{5BC3BFB7-8289-4048-8857-BEEFAC381006}.Release|x86.ActiveCfg = Release|Win32
+		{5BC3BFB7-8289-4048-8857-BEEFAC381006}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
