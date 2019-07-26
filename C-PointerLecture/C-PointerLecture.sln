@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "readme", "readme", "{861317
 		..\README.md = ..\README.md
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.数据类型", "1.数据类型\1.数据类型.vcxproj", "{5BC3BFB7-8289-4048-8857-BEEFAC381006}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.类型大小", "1.类型大小\1.类型大小.vcxproj", "{5BC3BFB7-8289-4048-8857-BEEFAC381006}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
